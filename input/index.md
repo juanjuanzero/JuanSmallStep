@@ -1,0 +1,27 @@
+Title: Hello World
+---
+# Hello World
+
+My name is Juan and I love to learn.
+
+# What do you currently do?
+I am currently working as a software engineer at a healtcare company in the analytics space. Mostly I build and maintain web applications built on the Microsoft Stack (IIS/ SQL Server/ ASP.Net/ ASP.Net Core). Our team is working towards building solutions in the cloud so I've been preparing myself for this change. I've been using Microsoft Learn and learning how to best use the cloud to solve problems for our customers. 
+
+# What i like about working with people?
+What I like the most about my job is knowing that what I am building is directly improving the lives of our customers. Sometimes I would hear stories about how they don't have enough time to deal with every fire that was suppose to be put out yesterday. Know that i've built something that our customers can pick up, and give them some of that time back, give my lots of joy.
+
+# What do you like about software engineering?
+I love technology and how it always evolves to solve the problems human problems. I love how quickly I changes, adapts to meet the demand. And people are always creating new ways to solve problems. 
+
+# What is one thing you've completed that you are proud of?
+One of my recent projects involves a solution that was build with Blazor Server. It also includes a Windows Service built with .Net Core's Background Service template. The service facilitates an ETL process to get data from separate systems and combine them for analysts. This was also my first Lean Six Sigma Greenbelt project that I completed as the Project and Tech Lead.
+
+# What things do you do in your day job?
+My other duties include maintaining legacy applications built on older versions of .Net. (MVC). Scoping out new projects for our team. Developing complex queries for multiple consumers (end users, or other processes) and interfacing with business customers to identify their needs and find a solution.
+
+# Formerly a Civil Engineer?
+Yep. Before becoming a Software Engineer, I was a Civil Engineer for a few years. I have served as a professional engineer for both local and federal government in the field of environmental engineering and hydrology. What can i say? I love the environment and I go with the flow! All in all I would say that enjoyed working as a Civil Engineer and being a part of projects that impacted communities in a massive scale. But I love the pace of new technology and once the opportunity came to get to be a part of this work. I had to check it out!
+
+# Why do this blog?
+I don't expect anyone to read this. I mainly to have a place to express my learnings in a way I understand it. Someone said once "if you can explain it simply, you don't really understand it". I hope my future self will look back, read this, cringe a little, and get some form of value. 
+

@@ -14,6 +14,11 @@ namespace MySite
       return await Bootstrapper
               .Factory
               .CreateWeb(args)
+              .DeployToGitHubPages(
+                  "juanjuanzero",
+                  "JuanSmallStep.github.io",
+                  Config.FromSetting<string>("GITHUB_TOKEN")
+              )
               .RunAsync();
     }
       

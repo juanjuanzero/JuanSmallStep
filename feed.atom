@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>/</id>
+	<title />
+	<link rel="self" href="/" />
+	<rights>Copyright © 2021</rights>
+	<updated>2021-08-21T16:25:09Z</updated>
+	<entry>
+		<id>/posts/myfirstpost</id>
+		<title>My First Statiq post</title>
+		<link href="/posts/myfirstpost" />
+		<updated>2021-08-21T16:23:31Z</updated>
+		<content>&lt;h1 id="hello-world-this-is-my-first-post"&gt;Hello World this is my first post!&lt;/h1&gt;
+&lt;p&gt;Hello from my first Statiq post on my blog.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Hello from my first Statiq post on my blog.&lt;/p&gt;</summary>
+	</entry>
+</feed>

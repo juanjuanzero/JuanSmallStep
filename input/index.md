@@ -2,7 +2,7 @@ Title: Hello World
 ---
 # Hello World
 
-My name is Juan and I love to learn.
+My name is Juan and I love to learn! Learning is my identity!
 
 # What do you currently do?
 I am currently working as a software engineer at a healtcare company in the analytics space. Mostly I build and maintain web applications built on the Microsoft Stack (IIS/ SQL Server/ ASP.Net/ ASP.Net Core). Our team is working towards building solutions in the cloud so I've been preparing myself for this change. I've been using Microsoft Learn and learning how to best use the cloud to solve problems for our customers. 

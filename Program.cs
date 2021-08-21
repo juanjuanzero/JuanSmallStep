@@ -16,7 +16,7 @@ namespace MySite
               .CreateWeb(args)
               .DeployToGitHubPages(
                   "juanjuanzero",
-                  "JuanSmallStep.github.io",
+                  "juanjuanzero.github.io",
                   Config.FromSetting<string>("GITHUB_TOKEN")
               )
               .RunAsync();
